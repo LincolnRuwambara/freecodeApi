@@ -11,4 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
+	"author": {
+		"name": "Lincoln Ruwambara",
+		"email": "lincolnruwambara@gmail.com"
+	}
 }
